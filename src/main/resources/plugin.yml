@@ -1,0 +1,13 @@
+name: ChatPrefix
+main: ru.gorodilov.chatprefix.ChatPrefix
+version: 1.0
+commands:
+    prefix:
+      description: Changes your prefix
+      usage: /prefix <prefix>
+    color:
+      description: Changes your color name
+      usage: /color <color-code>
+    cpreload:
+      description: Reloads config
+      usage: /cpreload
